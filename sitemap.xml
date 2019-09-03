@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://daxy9.github.io/kolindo/index.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://daxy9.github.io/kolindo/eng.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://daxy9.github.io/kolindo/ger.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+    <url>
+		<loc>https://daxy9.github.io/kolindo/fra.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+    <url>
+		<loc>https://daxy9.github.io/kolindo/ita.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+    <url>
+		<loc>https://daxy9.github.io/kolindo/cambridge.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.9</priority>
+	</url>
+    <url>
+		<loc>https://daxy9.github.io/kolindo/lokacije.html</loc>
+		<lastmod>2019-09-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.7</priority>
+	</url>
+    
+</urlset>
