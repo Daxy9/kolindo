@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body{
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+    background-color: #3d3d3d;
+    color: #fff;
+}
+.navbar{
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: rgb(61, 61, 61);
+}
+.navbar-dark .navbar-nav .dropdown-item{
+    color: #858789;
+}
+.boja{
+    color:#448cff;
+}
+.navbar-dark .navbar-nav .dropdown-item:hover,
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #448cff;
+}
+
+.jezik img{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.margina h2{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#ponuda{
+    display: flex;
+    justify-content: space-around;
+}
+#izdvajamo{
+    background-color: #4f4f4f;
+    justify-content: space-around;
+    align-items: center;
+}
+.jumbotron{
+    margin-bottom: 0px;
+    background-image:url("../img/landing.jpg");
+}
+#ben{
+    background-image: url("../img/ben.jpg");
+    height: 300px;
+}
+#platz{
+    background-image: url("../img/platz.jpg");
+    height: 300px;
+}
+#luvr{
+    background-image: url("../img/luvr.jpg");
+    height: 300px;
+}
+#italija{
+    background-image: url("../img/italija.jpg");
+    height: 300px;
+}
+#cambridge{
+    background-image: url("../img/cambridge.jpg");
+    height: 300px;
+}
+.karticaBoja{
+    background-color: #4f4f4f;
+}
+.karticaBoja p{
+    font-size: 1rem;
+}
+.pading{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+footer{
+    height: 40px;
+    width: 100%;
+    background-color: #3e3e3e;
+    margin-top: 25px;
+    border-top: 1px solid #448cff;
+}
+footer p{
+    padding-top: 10px;
+}
+.tab a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.tabs .indicator{
+    background-color: transparent;
+}
+.tabs .tab a:focus,
+.tabs .tab a:focus.active{
+    background: transparent;
+}
+#mojaSlika{
+    border-radius: 5px;
+}
